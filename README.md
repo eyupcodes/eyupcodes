@@ -296,37 +296,57 @@ My technical interests increasingly focus on moving from prompt-level experiment
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=eyupcodes&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Engineering%20Activity" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/overview.light.svg" />
+  <img alt="GitHub Overview" src="./assets/overview.dark.svg" width="100%" />
+</picture>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyupcodes&layout=compact&theme=github_dark&hide_border=true&langs_count=10&custom_title=Language%20Distribution" />
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/languages.light.svg" />
+  <img alt="Language Distribution" src="./assets/languages.dark.svg" width="100%" />
+</picture>
 
 </div>
 
-<br/>
+> These cards are generated inside this repository by GitHub Actions rather than loaded from a public third-party stats endpoint.
+
+---
+
+## 🧬 Contribution Overview
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=eyupcodes&theme=github-dark-blue&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contributions.light.svg" />
+  <img alt="Contribution Overview" src="./assets/contributions.dark.svg" width="100%" />
+</picture>
 
 </div>
 
 ---
 
-## 🏆 GitHub Profile
+## 📈 Engineering Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=eyupcodes&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/lifetime.light.svg" />
+  <img alt="GitHub Lifetime Activity" src="./assets/lifetime.dark.svg" width="100%" />
+</picture>
 
-</div>
+<br/><br/>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=eyupcodes&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Timeline" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/rhythm.dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/rhythm.light.svg" />
+  <img alt="GitHub Activity Rhythm" src="./assets/rhythm.dark.svg" width="100%" />
+</picture>
 
 </div>
 
