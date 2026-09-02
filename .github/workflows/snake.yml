@@ -1,36 +1,33 @@
-name: Generate Contribution Snake
+name: Generate Profile Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-
+    - cron: "15 0 * * *"
   workflow_dispatch:
-
   push:
     branches:
       - main
+    paths:
+      - ".github/workflows/profile-cards.yml"
 
 permissions:
   contents: write
 
 jobs:
-  generate:
+  profile-cards:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
-      - name: Generate snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: eyupcodes
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Checkout profile repository
+        uses: actions/checkout@v7
 
-      - name: Publish snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Generate self-hosted profile cards
+        uses: seijikohara/profile-cards-action@v1
         with:
-          build_dir: dist
-          branch: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: eyupcodes
+          cards: overview,lifetime,contributions,rhythm,languages
+          output-dir: assets
+          themes: light,dark
+          commit: true
+          commit-message: "chore(profile): refresh generated cards [skip ci]"
