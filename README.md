@@ -314,6 +314,8 @@ My technical interests increasingly focus on moving from prompt-level experiment
 
 > These cards are generated inside this repository by GitHub Actions rather than loaded from a public third-party stats endpoint.
 
+---
+
 ## 📈 Engineering Activity
 
 <div align="center">
