@@ -1,51 +1,61 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=235&color=0:0D1117,35:111827,70:1F6FEB,100:58A6FF&text=EYÜP%20FİDAN&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=AI%20ENGINEERING%20•%20MACHINE%20LEARNING%20•%20DATA%20•%20SOFTWARE&descAlignY=56&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,35:111827,72:1F6FEB,100:58A6FF&text=EYÜP%20FİDAN&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=AI%20•%20MACHINE%20LEARNING%20•%20DATA%20•%20SOFTWARE%20SYSTEMS&descAlignY=56&descSize=16&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2400&pause=700&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI+Systems+That+Actually+Work;RAG+%E2%80%A2+Agents+%E2%80%A2+Evaluation+%E2%80%A2+Automation;Python+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+Jupyter;From+Experiments+to+Production-Oriented+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=750&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI%2C+Data+%26+Software+Projects;RAG+%E2%80%A2+LLM+Evaluation+%E2%80%A2+Automation+%E2%80%A2+Data;Python+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+Jupyter;Learning+Through+Systems%2C+Experiments+%26+Real+Projects" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://github.com/eyupcodes">
   <img src="https://img.shields.io/badge/GitHub-eyupcodes-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=eyupcodes&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/eyupcodes?style=for-the-badge&logo=github&label=FOLLOWERS&color=238636" />
+
+<!-- Replace the four URLs below with your own profile links. -->
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="YOUR_MEDIUM_URL">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="YOUR_KAGGLE_URL">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+<a href="YOUR_HUGGINGFACE_URL">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" />
+</a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/FOCUS-AI%20ENGINEERING-1F6FEB?style=flat-square" />
-<img src="https://img.shields.io/badge/FOCUS-DATA%20ENGINEERING-8250DF?style=flat-square" />
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20SYSTEMS-238636?style=flat-square" />
-<img src="https://img.shields.io/badge/FOCUS-RESEARCH%20%26%20EVALUATION-D29922?style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=eyupcodes&style=flat-square&color=1F6FEB&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/eyupcodes?style=flat-square&logo=github&label=FOLLOWERS&color=238636" />
 
 </div>
 
 ---
 
-## `> identity --verbose`
+## `> whoami`
 
 ```python
 class EyupFidan:
     role = "Software Developer"
 
-    primary_direction = [
-        "AI Engineering",
+    main_direction = [
+        "Artificial Intelligence",
         "Machine Learning",
-        "Data Engineering",
+        "Data",
         "Software Engineering",
     ]
 
-    deepening_into = [
+    currently_exploring = [
         "RAG Systems",
         "LLM Evaluation",
         "AI Agents",
         "Model Benchmarking",
+        "Data Engineering",
         "Automation",
-        "Production AI",
     ]
 
-    main_language = "Python"
+    primary_language = "Python"
 
     additional_stack = [
         "JavaScript",
@@ -55,31 +65,25 @@ class EyupFidan:
         "Jupyter",
     ]
 
-    engineering_style = [
-        "build",
-        "measure",
-        "test",
-        "document",
-        "iterate",
-        "ship",
-    ]
-
-    long_term_goal = "Build reliable AI-powered systems, not isolated demos."
+    approach = "Build → Test → Measure → Learn → Improve → Ship"
 ```
 
-I focus on the intersection of **AI, data and software engineering**.
+I am building my technical foundation around **AI, machine learning, data and software systems**.
 
-This GitHub profile is my engineering workspace and public portfolio: a place for benchmarks, experiments, tools, systems and product-oriented projects that demonstrate how I approach real technical problems.
+My goal is not to fill GitHub with disconnected tutorial repositories. I use it as a public engineering workspace where I can turn concepts into measurable experiments, tools, applications and increasingly complete systems.
+
+I am especially interested in the layer between **AI research concepts and usable software**: retrieval systems, evaluation, model tooling, automation, data flows and the engineering required to make these systems reliable.
 
 ---
 
-## 🧠 Core Engineering Direction
+## 🧭 What I’m Working Toward
 
 <table>
 <tr>
 <td width="25%" align="center">
 
-### 🤖 AI
+### 🤖 AI Systems
+
 LLMs  
 RAG  
 Agents  
@@ -89,8 +93,9 @@ Evaluation
 <td width="25%" align="center">
 
 ### 📊 Data
-Pipelines  
+
 Processing  
+Pipelines  
 Analytics  
 Experiments  
 
@@ -98,15 +103,17 @@ Experiments
 <td width="25%" align="center">
 
 ### 🧱 Software
+
 Architecture  
 Backend  
-Web Systems  
+Web  
 Testing  
 
 </td>
 <td width="25%" align="center">
 
-### ⚙️ Systems
+### ⚙️ Engineering
+
 Automation  
 CI/CD  
 Observability  
@@ -116,62 +123,163 @@ Tooling
 </tr>
 </table>
 
----
-
-## ⚡ What I’m Building Toward
+The long-term direction is simple:
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                    PRODUCTION AI ENGINEERING                 │
-├──────────────────────────────────────────────────────────────┤
-│  LLM Systems  │  RAG  │  Agents  │  Evaluation  │  Data    │
-├──────────────────────────────────────────────────────────────┤
-│      Backend Systems  │  Automation  │  Testing  │  CI/CD    │
-├──────────────────────────────────────────────────────────────┤
-│           Architecture  │  Observability  │  Security        │
-└──────────────────────────────────────────────────────────────┘
+Foundations
+    ↓
+Applied Projects
+    ↓
+Evaluation & Measurement
+    ↓
+Data + Backend Systems
+    ↓
+Automation + CI/CD
+    ↓
+Reliable AI-Powered Software
 ```
 
-The goal is not to collect technologies.  
-The goal is to understand how they fit together inside **reliable, measurable and maintainable systems**.
+---
+
+## 🧠 Areas of Interest
+
+Rather than treating every technology as an isolated skill, I am trying to understand how the pieces interact inside complete systems.
+
+```text
+Artificial Intelligence
+├── Large Language Models
+├── Retrieval-Augmented Generation
+├── AI Agents
+├── Model Evaluation
+├── Prompt Evaluation
+├── Tool-Using Systems
+└── Human-in-the-Loop Workflows
+
+Machine Learning
+├── Applied ML
+├── Model Evaluation
+├── Experiment Design
+├── Metrics
+├── Reproducibility
+└── Benchmarking
+
+Data
+├── Data Processing
+├── Data Pipelines
+├── Analytics
+├── Data Quality
+├── Structured Experiments
+└── Data Engineering Foundations
+
+Software Engineering
+├── Python Systems
+├── Backend Architecture
+├── Web Applications
+├── APIs
+├── Testing
+├── CI/CD
+├── Automation
+└── Maintainability
+```
 
 ---
 
 ## 🧰 Technology Stack
 
+> Every icon below links to the technology's official website or documentation.
+
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
+  <a href="https://www.python.org/" title="Python">
+    <img width="48" height="48" src="https://skillicons.dev/icons?i=python" alt="Python" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+    <img width="48" height="48" src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  </a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript">
+    <img width="48" height="48" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML">
+    <img width="48" height="48" src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS">
+    <img width="48" height="48" src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  </a>
 </p>
 
 ### Frontend & Web
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vite" />
+  <a href="https://react.dev/" title="React">
+    <img width="48" height="48" src="https://skillicons.dev/icons?i=react" alt="React" />
+  </a>
+  <a href="https://nextjs.org/" title="Next.js">
+    <img width="48" height="48" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+  </a>
+  <a href="https://nodejs.org/" title="Node.js">
+    <img width="48" height="48" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+  </a>
+  <a href="https://vite.dev/" title="Vite">
+    <img width="48" height="48" src="https://skillicons.dev/icons?i=vite" alt="Vite" />
+  </a>
 </p>
 
 ### AI & Data
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+  <a href="https://pytorch.org/" title="PyTorch">
+    <img width="48" height="48" src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
+  </a>
+  <a href="https://www.tensorflow.org/" title="TensorFlow">
+    <img width="48" height="48" src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
+  </a>
+  <a href="https://scikit-learn.org/" title="scikit-learn">
+    <img width="48" height="48" src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <a href="https://jupyter.org/" title="Jupyter">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  </a>
+  <a href="https://pandas.pydata.org/" title="Pandas">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  </a>
+  <a href="https://numpy.org/" title="NumPy">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  </a>
 </p>
 
 ### Engineering & Infrastructure
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,supabase,vercel,vscode" />
+  <a href="https://git-scm.com/" title="Git">
+    <img width="48" height="48" src="https://skillicons.dev/icons?i=git" alt="Git" />
+  </a>
+  <a href="https://github.com/" title="GitHub">
+    <img width="48" height="48" src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="https://www.docker.com/" title="Docker">
+    <img width="48" height="48" src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  </a>
+  <a href="https://www.kernel.org/" title="Linux">
+    <img width="48" height="48" src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+  </a>
+  <a href="https://supabase.com/" title="Supabase">
+    <img width="48" height="48" src="https://skillicons.dev/icons?i=supabase" alt="Supabase" />
+  </a>
+  <a href="https://vercel.com/" title="Vercel">
+    <img width="48" height="48" src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
+  </a>
+  <a href="https://code.visualstudio.com/" title="Visual Studio Code">
+    <img width="48" height="48" src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" />
+  </a>
 </p>
 
 ---
 
-## 🚀 Selected Engineering Projects
+## 🚀 Selected Projects
 
 <table>
 <tr>
@@ -179,17 +287,17 @@ The goal is to understand how they fit together inside **reliable, measurable an
 
 ### 🔎 RAGBench
 
-Benchmarking-oriented project for testing and evaluating retrieval-augmented generation components and retrieval quality.
+A benchmarking-oriented project focused on retrieval-augmented generation and retrieval quality.
 
-**Engineering focus**
+**What it represents**
 - Retrieval evaluation
-- Benchmark design
-- Reproducible testing
-- Quality measurement
-- Python tooling
+- Reproducible benchmarks
+- Test-driven iteration
+- Python engineering
+- Measurement before assumptions
 
 <a href="https://github.com/eyupcodes/RAGBench">
-  <img src="https://img.shields.io/badge/OPEN_RAGBENCH-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VIEW_RAGBENCH-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -198,17 +306,17 @@ Benchmarking-oriented project for testing and evaluating retrieval-augmented gen
 
 ### 📏 ModelMeter
 
-Model evaluation project focused on comparing AI model behavior and performance through structured measurement.
+A model-oriented engineering project built around structured AI model measurement and comparison.
 
-**Engineering focus**
+**What it represents**
 - Model benchmarking
 - Comparative evaluation
 - Metrics
-- Experiment design
-- Python
+- Experiment structure
+- AI tooling
 
 <a href="https://github.com/eyupcodes/ModelMeter">
-  <img src="https://img.shields.io/badge/OPEN_MODELMETER-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VIEW_MODELMETER-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -219,14 +327,14 @@ Model evaluation project focused on comparing AI model behavior and performance 
 
 ### 🧪 Prompt Bench
 
-Prompt evaluation and experimentation tooling for testing prompt behavior across structured scenarios.
+Experiments and tooling for evaluating prompt behavior in a more structured and reproducible way.
 
-**Engineering focus**
-- Prompt evaluation
+**What it represents**
+- Prompt testing
 - LLM experimentation
+- Comparative evaluation
 - Reproducibility
-- Comparative testing
-- Benchmarking
+- Technical iteration
 
 </td>
 
@@ -234,14 +342,14 @@ Prompt evaluation and experimentation tooling for testing prompt behavior across
 
 ### 🧱 Product & System Projects
 
-Larger software projects that combine architecture, AI, backend systems, automation and product thinking.
+Larger projects where the challenge is not only writing code, but combining architecture, workflows, AI, data, backend logic and product constraints.
 
-**Engineering focus**
+**What they represent**
+- System design
 - Modular architecture
-- Workflow design
 - AI integration
-- Testing
-- Product engineering
+- Workflow engineering
+- End-to-end thinking
 
 </td>
 </tr>
@@ -249,46 +357,74 @@ Larger software projects that combine architecture, AI, backend systems, automat
 
 ---
 
-## 🧪 Research & Technical Interests
-
-```text
-LLM Evaluation
-│
-├── Prompt Evaluation
-├── Model Comparison
-├── Retrieval Quality
-├── RAG Benchmarking
-├── Agent Evaluation
-└── Reliability / Reproducibility
-
-Applied AI
-│
-├── AI Assistants
-├── AI Agents
-├── Tool-Using Systems
-├── Automation
-├── Multi-Model Workflows
-└── Human-in-the-Loop Systems
-
-Data & Systems
-│
-├── Data Pipelines
-├── Processing
-├── Backend Architecture
-├── CI/CD
-├── Observability
-└── Production Readiness
-```
-
----
-
-## 📚 Research Work
+## 🔬 Research & Technical Writing
 
 ### Prompt Engineering in Large Language Models
 
-I have worked on academic research around **prompt engineering in large language models**, including methods, applications and ethical considerations.
+I have worked on academic research around **prompt engineering in large language models**, covering methods, applications and ethical considerations.
 
-My technical interests increasingly focus on moving from prompt-level experimentation toward **system-level AI evaluation and engineering**.
+That work is part of why I am increasingly interested in going beyond isolated prompts and focusing on broader questions such as:
+
+- How should an LLM system be evaluated?
+- How do we measure retrieval quality?
+- When does an agent architecture actually improve a workflow?
+- How should AI systems fail safely?
+- How can experiments remain reproducible?
+- Which improvements are measurable and which are only subjective?
+
+This is also where **Medium** fits into the profile: technical notes, experiments, lessons learned and deeper write-ups can live there without turning every GitHub repository into a long-form article.
+
+---
+
+## 🧪 How I Think About Engineering
+
+```text
+Problem
+  ↓
+Assumptions
+  ↓
+Smallest useful architecture
+  ↓
+Critical implementation path
+  ↓
+Tests
+  ↓
+Measurement
+  ↓
+Failure analysis
+  ↓
+Documentation
+  ↓
+Automation
+  ↓
+Iteration
+```
+
+A technically impressive system is not automatically a good system.
+
+I care increasingly about whether a project is:
+
+- **understandable** enough to maintain,
+- **testable** enough to trust,
+- **measurable** enough to evaluate,
+- **modular** enough to evolve,
+- **documented** enough to survive context loss,
+- and **useful** enough to justify its complexity.
+
+---
+
+## 📐 Engineering Principles
+
+| Principle | What it means to me |
+|---|---|
+| **Build** | Concepts become valuable when they are implemented |
+| **Measure** | Improvement without measurement is mostly guesswork |
+| **Test** | Reliability should be designed into the system |
+| **Simplify** | Complexity needs a concrete reason to exist |
+| **Document** | Important technical decisions should remain understandable |
+| **Automate** | Repetitive verification should become tooling |
+| **Iterate** | Version one is a starting point, not the architecture forever |
+| **Ship** | Finished systems create better feedback than endless drafts |
 
 ---
 
@@ -312,35 +448,15 @@ My technical interests increasingly focus on moving from prompt-level experiment
 
 </div>
 
-> These cards are generated inside this repository by GitHub Actions rather than loaded from a public third-party stats endpoint.
+> These cards are generated inside this repository through GitHub Actions.
 
 ---
 
-## 🧬 Contribution Overview
+## 📈 Activity Rhythm
+
+Instead of repeating contribution counts in multiple charts, this section keeps only one view that answers a different question: **when do I tend to build?**
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/contributions.light.svg" />
-  <img alt="Contribution Overview" src="./assets/contributions.dark.svg" width="100%" />
-</picture>
-
-</div>
-
----
-
-## 📈 Engineering Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/lifetime.light.svg" />
-  <img alt="GitHub Lifetime Activity" src="./assets/lifetime.dark.svg" width="100%" />
-</picture>
-
-<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/rhythm.dark.svg" />
@@ -366,155 +482,176 @@ My technical interests increasingly focus on moving from prompt-level experiment
 
 ---
 
-## 🧭 Engineering Roadmap
+## 🗺️ Learning & Development Map
 
-```mermaid
-flowchart TD
-    A[AI / ML Foundations] --> B[Applied AI Projects]
-    B --> C[RAG Systems]
-    B --> D[AI Agents]
-    B --> E[LLM Evaluation]
+My current learning path is not a single straight line. It is a layered system where each area supports the others.
 
-    C --> F[Data Engineering]
-    D --> F
-    E --> F
-
-    F --> G[Backend Systems]
-    G --> H[Testing & CI/CD]
-    H --> I[Observability & Security]
-    I --> J[Production AI Engineering]
+```text
+                     ┌─────────────────────┐
+                     │  Computer Science   │
+                     └──────────┬──────────┘
+                                ↓
+                     ┌─────────────────────┐
+                     │ Python + Algorithms │
+                     └──────────┬──────────┘
+                                ↓
+          ┌─────────────────────┼─────────────────────┐
+          ↓                     ↓                     ↓
+    Mathematics          Machine Learning       Data Systems
+          ↓                     ↓                     ↓
+          └──────────────┬──────┴──────┬──────────────┘
+                         ↓             ↓
+                       LLMs           RAG
+                         └──────┬──────┘
+                                ↓
+                         AI Applications
+                                ↓
+                    Backend + Architecture
+                                ↓
+                  Testing + CI/CD + Security
+                                ↓
+                     Production-Oriented
+                        Software Systems
 ```
+
+The point is not to rush through this map. The point is to build enough depth that later projects are based on understanding rather than copy-paste implementation.
 
 ---
 
-## 🧩 Engineering Capability Matrix
+## 🧩 Capability Areas I’m Developing
 
-| Area | Current Direction |
+| Area | Direction |
 |---|---|
-| AI Engineering | LLM systems, RAG, agents, evaluation |
-| Machine Learning | Applied workflows, experiments, benchmarking |
-| Data Engineering | Processing, pipelines, analytics foundations |
-| Python | Core engineering language |
-| JavaScript / TypeScript | Web and product development |
-| Testing | Unit, integration, reproducibility |
-| Architecture | Modular systems and maintainability |
-| DevOps | GitHub Actions, CI/CD, Docker foundations |
-| Product Engineering | Turning technical ideas into usable systems |
-
----
-
-## 🏗️ How I Approach Projects
-
-```text
-01. Define the real problem.
-02. Separate assumptions from facts.
-03. Design the smallest useful architecture.
-04. Build the critical path first.
-05. Add tests before complexity grows.
-06. Measure behavior and performance.
-07. Document important decisions.
-08. Harden security and failure paths.
-09. Automate repetitive verification.
-10. Ship, observe and iterate.
-```
-
----
-
-## 🗂️ Repository Portfolio Direction
-
-```text
-eyupcodes/
-│
-├── ai-engineering/
-│   ├── rag
-│   ├── agents
-│   ├── llm-evaluation
-│   └── model-tooling
-│
-├── machine-learning/
-│   ├── applied-ml
-│   ├── experiments
-│   └── benchmarks
-│
-├── data-engineering/
-│   ├── pipelines
-│   ├── processing
-│   └── analytics
-│
-├── python-engineering/
-│   ├── automation
-│   ├── cli-tools
-│   └── developer-utilities
-│
-├── web-engineering/
-│   ├── javascript
-│   ├── typescript
-│   └── full-stack
-│
-└── research/
-    ├── notebooks
-    ├── evaluations
-    └── technical-notes
-```
+| **Python** | Core programming, tooling, automation, backend |
+| **Machine Learning** | Foundations, experimentation, evaluation |
+| **LLMs** | RAG, prompts, evaluation, agents |
+| **Data** | Processing, pipelines, analytics, quality |
+| **JavaScript / TypeScript** | Web and product development |
+| **Architecture** | Modular systems, boundaries, maintainability |
+| **Testing** | Unit, integration, reproducible evaluation |
+| **CI/CD** | Automated verification and delivery workflows |
+| **Infrastructure** | Docker, Linux and deployment foundations |
+| **Research** | Reading, experimentation and technical writing |
 
 ---
 
 ## 🎯 Current Objectives
 
-- Build deeper **AI Engineering** expertise
-- Develop production-oriented **RAG systems**
-- Design and evaluate practical **AI agent architectures**
-- Improve **Data Engineering** foundations
-- Expand real project depth in **JavaScript / TypeScript**
-- Build stronger **testing and CI/CD** discipline
-- Improve **observability, security and maintainability**
-- Publish technically meaningful repositories instead of shallow demos
-- Move from isolated experiments toward complete engineering systems
+```yaml
+current_objectives:
+  foundations:
+    - strengthen computer science fundamentals
+    - improve algorithms and problem solving
+    - deepen mathematics for ML
+
+  ai_ml:
+    - strengthen machine learning foundations
+    - build better RAG systems
+    - learn evaluation methodology
+    - explore practical agent architectures
+
+  data:
+    - improve data engineering foundations
+    - work with larger and cleaner data workflows
+    - learn pipeline and quality practices
+
+  software:
+    - deepen Python engineering
+    - expand JavaScript and TypeScript project depth
+    - improve architecture and testing discipline
+
+  production:
+    - use CI/CD consistently
+    - improve observability
+    - improve security awareness
+    - design for maintainability
+```
 
 ---
 
-## ⚙️ Engineering Principles
+## 🗂️ What You’ll Find Across My Repositories
+
+```text
+📦 AI / LLM experiments
+📦 RAG and retrieval systems
+📦 Machine learning projects
+📦 Model and prompt benchmarks
+📦 Data-oriented notebooks
+📦 Python tools and automation
+📦 JavaScript / TypeScript applications
+📦 Evaluation utilities
+📦 CI-tested engineering projects
+📦 Larger product-oriented experiments
+```
+
+Some repositories are deliberately small because they isolate one concept. Others are larger because the goal is to practice architecture and system design.
+
+The important distinction for me is whether a repository has a clear technical purpose.
+
+---
+
+## 🌐 Find Me Elsewhere
 
 <div align="center">
 
-| Principle | Meaning |
-|---|---|
-| **Build** | Ideas are only useful when implemented |
-| **Measure** | Improvement without measurement is guesswork |
-| **Test** | Reliability should be designed, not assumed |
-| **Document** | Important decisions should survive context loss |
-| **Simplify** | Complexity needs justification |
-| **Automate** | Repetitive verification should become tooling |
-| **Ship** | Finished systems create more learning than endless drafts |
+<!-- Replace these placeholder links with your real accounts. -->
+
+<a href="YOUR_LINKEDIN_URL">
+  <img height="42" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="YOUR_MEDIUM_URL">
+  <img height="42" src="https://img.shields.io/badge/Medium-Read%20My%20Writing-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+<a href="YOUR_KAGGLE_URL">
+  <img height="42" src="https://img.shields.io/badge/Kaggle-Data%20%26%20Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
+<a href="YOUR_HUGGINGFACE_URL">
+  <img height="42" src="https://img.shields.io/badge/Hugging%20Face-Models%20%26%20AI-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" />
+</a>
 
 </div>
+
+<br/>
+
+- **LinkedIn** — professional profile, networking and project updates
+- **Medium** — technical writing, research notes and deeper explanations
+- **Kaggle** — datasets, notebooks, experiments and data/ML work
+- **Hugging Face** — models, Spaces, datasets and AI experiments
+- **GitHub** — source code, engineering projects and technical experiments
 
 ---
 
 ## `> system.status`
 
 ```yaml
-status: building
-direction: AI + Data + Software Engineering
+name: Eyüp Fidan
+role: Software Developer
+
+direction:
+  - Artificial Intelligence
+  - Machine Learning
+  - Data
+  - Software Engineering
+
 primary_language: Python
-secondary_stack:
-  - JavaScript
-  - TypeScript
-  - React
-  - Next.js
 
-current_priorities:
+building:
   - RAG systems
-  - AI agents
-  - LLM evaluation
-  - data engineering
-  - production architecture
+  - evaluation tooling
+  - AI experiments
+  - automation
+  - data projects
+  - software systems
 
-operating_mode:
-  - learn
+operating_principles:
+  - understand
   - build
   - test
   - measure
+  - document
   - improve
   - ship
 ```
@@ -523,20 +660,20 @@ operating_mode:
 
 <div align="center">
 
-### `BUILD → MEASURE → TEST → LEARN → IMPROVE → SHIP`
+### `BUILD → TEST → MEASURE → LEARN → IMPROVE → SHIP`
 
 <br/>
 
-**AI Engineering • Data • Software Systems • Research • Automation**
+**AI • Machine Learning • Data • Software Systems**
 
 <br/><br/>
 
-<a href="https://github.com/eyupcodes">
+<a href="https://github.com/eyupcodes?tab=repositories">
   <img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=135&section=footer&color=0:0D1117,35:111827,70:1F6FEB,100:58A6FF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=135&section=footer&color=0:0D1117,35:111827,72:1F6FEB,100:58A6FF" />
 
 </div>
