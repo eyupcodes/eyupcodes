@@ -23,6 +23,9 @@
 <a href="YOUR_HUGGINGFACE_URL">
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" />
 </a>
+<a href="YOUR_SLACK_URL">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+</a>
 
 <br/><br/>
 
@@ -63,6 +66,11 @@ class EyupFidan:
         "React",
         "Next.js",
         "Jupyter",
+    ]
+
+    currently_learning = [
+        "C++",
+        "R",
     ]
 
     approach = "Build → Test → Measure → Learn → Improve → Ship"
@@ -206,6 +214,21 @@ Software Engineering
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS">
     <img width="48" height="48" src="https://skillicons.dev/icons?i=css" alt="CSS" />
   </a>
+</p>
+
+### Currently Learning / Expanding Into
+
+<p align="center">
+  <a href="https://isocpp.org/" title="C++">
+    <img width="48" height="48" src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+  </a>
+  <a href="https://www.r-project.org/" title="R">
+    <img width="48" height="48" src="https://skillicons.dev/icons?i=r" alt="R" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>C++ for performance-oriented systems and AI infrastructure • R for statistics, data analysis and research workflows</sub>
 </p>
 
 ### Frontend & Web
@@ -531,6 +554,8 @@ The point is not to rush through this map. The point is to build enough depth th
 | **Testing** | Unit, integration, reproducible evaluation |
 | **CI/CD** | Automated verification and delivery workflows |
 | **Infrastructure** | Docker, Linux and deployment foundations |
+| **C++** | Performance-oriented programming and AI/system foundations |
+| **R** | Statistics, data analysis and research workflows |
 | **Research** | Reading, experimentation and technical writing |
 
 ---
@@ -612,6 +637,10 @@ The important distinction for me is whether a repository has a clear technical p
   <img height="42" src="https://img.shields.io/badge/Hugging%20Face-Models%20%26%20AI-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" />
 </a>
 
+<a href="YOUR_SLACK_URL">
+  <img height="42" src="https://img.shields.io/badge/Slack-Community-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+</a>
+
 </div>
 
 <br/>
@@ -620,6 +649,7 @@ The important distinction for me is whether a repository has a clear technical p
 - **Medium** — technical writing, research notes and deeper explanations
 - **Kaggle** — datasets, notebooks, experiments and data/ML work
 - **Hugging Face** — models, Spaces, datasets and AI experiments
+- **Slack** — communities, collaboration and technical networking
 - **GitHub** — source code, engineering projects and technical experiments
 
 ---
