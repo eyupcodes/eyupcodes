@@ -302,6 +302,30 @@ Software Engineering
 
 ---
 
+## 🏢 ATKA Studio
+
+<div align="center">
+
+### Premium websites, digital systems & custom automation
+
+I’m also building **ATKA Studio** — a digital studio focused on creating polished web experiences, practical digital systems and custom-built solutions for modern businesses.
+
+<br/>
+
+<a href="https://atka.studio">
+  <img src="https://img.shields.io/badge/ATKA.STUDIO-Visit%20Studio-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ATKA Studio" />
+</a>
+
+<br/><br/>
+
+`Premium Websites` • `Digital Systems` • `Automation` • `Custom Builds`
+
+</div>
+
+> ATKA is where I apply software, product thinking and design beyond standalone repositories — turning technical capability into client-facing digital products.
+
+---
+
 ## 🚀 Selected Projects
 
 <table>
