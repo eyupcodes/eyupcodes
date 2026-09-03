@@ -316,6 +316,20 @@ My technical interests increasingly focus on moving from prompt-level experiment
 
 ---
 
+## 🧬 Contribution Overview
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contributions.light.svg" />
+  <img alt="Contribution Overview" src="./assets/contributions.dark.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
 ## 📈 Engineering Activity
 
 <div align="center">
