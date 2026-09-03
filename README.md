@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,35:111827,72:1F6FEB,100:58A6FF&text=EYÜP%20FİDAN&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=AI%20•%20MACHINE%20LEARNING%20•%20DATA%20•%20SOFTWARE%20SYSTEMS&descAlignY=56&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,35:111827,72:1F6FEB,100:58A6FF&text=EYÜP%20FİDAN&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=AI%20ENGİNEERİNG%20•%20MACHINE%20LEARNING%20•%20DATA%20•%20SOFTWARE%20SYSTEMS&descAlignY=56&descSize=16&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=750&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI%2C+Data+%26+Software+Projects;RAG+%E2%80%A2+LLM+Evaluation+%E2%80%A2+Automation+%E2%80%A2+Data;Python+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+Jupyter;Learning+Through+Systems%2C+Experiments+%26+Real+Projects" alt="Typing SVG" />
 
