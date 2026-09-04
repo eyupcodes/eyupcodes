@@ -485,8 +485,6 @@ I care increasingly about whether a project is:
   <img alt="GitHub Overview" src="./assets/overview.dark.svg" width="100%" />
 </picture>
 
-<br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/languages.light.svg" />
