@@ -716,7 +716,7 @@ operating_principles:
 
 <br/>
 
-**AI • Machine Learning • Data • Software Systems**
+**AI ENGINEERING • Machine Learning • Data • Software Systems**
 
 <br/><br/>
 
