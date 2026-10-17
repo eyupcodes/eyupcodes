@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/GitHub-eyupcodes-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<!-- Replace the four URLs below with your own profile links. -->
 <a href="https://www.linkedin.com/in/eyuppfidann/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -23,6 +22,10 @@
 <a href="https://huggingface.co/eyupcodes">
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" />
 </a>
+<a href="https://x.com/eyupfidann">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=eyupcodes&style=flat-square&color=1F6FEB&label=PROFILE+VIEWS" />
@@ -637,7 +640,6 @@ The important distinction for me is whether a repository has a clear technical p
 
 <div align="center">
 
-
 <a href="https://www.linkedin.com/in/eyuppfidann/">
   <img height="42" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -654,6 +656,10 @@ The important distinction for me is whether a repository has a clear technical p
   <img height="42" src="https://img.shields.io/badge/Hugging%20Face-Models%20%26%20AI-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" />
 </a>
 
+<a href="https://x.com/eyupfidann">
+  <img height="42" src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
 </div>
 
 <br/>
@@ -662,6 +668,7 @@ The important distinction for me is whether a repository has a clear technical p
 - **Medium** — technical writing, research notes and deeper explanations
 - **Kaggle** — datasets, notebooks, experiments and data/ML work
 - **Hugging Face** — models, Spaces, datasets and AI experiments
+- **X** — short updates, links and conversations about AI tooling
 - **GitHub** — source code, engineering projects and technical experiments
 
 ---
