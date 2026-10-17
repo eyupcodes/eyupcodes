@@ -11,16 +11,16 @@
 </a>
 
 <!-- Replace the four URLs below with your own profile links. -->
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/eyuppfidann/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="YOUR_MEDIUM_URL">
+<a href="https://medium.com/@eyupcodes">
   <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-<a href="YOUR_KAGGLE_URL">
+<a href="https://www.kaggle.com/eypfidan">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
-<a href="YOUR_HUGGINGFACE_URL">
+<a href="https://huggingface.co/eyupcodes">
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" />
 </a>
 <a href="YOUR_SLACK_URL">
@@ -641,21 +641,20 @@ The important distinction for me is whether a repository has a clear technical p
 
 <div align="center">
 
-<!-- Replace these placeholder links with your real accounts. -->
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/eyuppfidann/">
   <img height="42" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="YOUR_MEDIUM_URL">
+<a href="https://medium.com/@eyupcodes">
   <img height="42" src="https://img.shields.io/badge/Medium-Read%20My%20Writing-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-<a href="YOUR_KAGGLE_URL">
+<a href="https://www.kaggle.com/eypfidan">
   <img height="42" src="https://img.shields.io/badge/Kaggle-Data%20%26%20Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
 
-<a href="YOUR_HUGGINGFACE_URL">
+<a href="https://huggingface.co/eyupcodes">
   <img height="42" src="https://img.shields.io/badge/Hugging%20Face-Models%20%26%20AI-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" />
 </a>
 
