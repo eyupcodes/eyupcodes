@@ -23,10 +23,6 @@
 <a href="https://huggingface.co/eyupcodes">
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" />
 </a>
-<a href="YOUR_SLACK_URL">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-</a>
-
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=eyupcodes&style=flat-square&color=1F6FEB&label=PROFILE+VIEWS" />
@@ -658,10 +654,6 @@ The important distinction for me is whether a repository has a clear technical p
   <img height="42" src="https://img.shields.io/badge/Hugging%20Face-Models%20%26%20AI-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" />
 </a>
 
-<a href="YOUR_SLACK_URL">
-  <img height="42" src="https://img.shields.io/badge/Slack-Community-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-</a>
-
 </div>
 
 <br/>
@@ -670,7 +662,6 @@ The important distinction for me is whether a repository has a clear technical p
 - **Medium** — technical writing, research notes and deeper explanations
 - **Kaggle** — datasets, notebooks, experiments and data/ML work
 - **Hugging Face** — models, Spaces, datasets and AI experiments
-- **Slack** — communities, collaboration and technical networking
 - **GitHub** — source code, engineering projects and technical experiments
 
 ---
