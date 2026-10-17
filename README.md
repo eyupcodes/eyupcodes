@@ -10,21 +10,20 @@
   <img src="https://img.shields.io/badge/GitHub-eyupcodes-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<!-- Replace the four URLs below with your own profile links. -->
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/eyuppfidann/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="YOUR_MEDIUM_URL">
+<a href="https://medium.com/@eyupcodes">
   <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-<a href="YOUR_KAGGLE_URL">
+<a href="https://www.kaggle.com/eypfidan">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
-<a href="YOUR_HUGGINGFACE_URL">
+<a href="https://huggingface.co/eyupcodes">
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" />
 </a>
-<a href="YOUR_SLACK_URL">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+<a href="https://x.com/eyupfidann">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -641,26 +640,24 @@ The important distinction for me is whether a repository has a clear technical p
 
 <div align="center">
 
-<!-- Replace these placeholder links with your real accounts. -->
-
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/eyuppfidann/">
   <img height="42" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="YOUR_MEDIUM_URL">
+<a href="https://medium.com/@eyupcodes">
   <img height="42" src="https://img.shields.io/badge/Medium-Read%20My%20Writing-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-<a href="YOUR_KAGGLE_URL">
+<a href="https://www.kaggle.com/eypfidan">
   <img height="42" src="https://img.shields.io/badge/Kaggle-Data%20%26%20Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
 
-<a href="YOUR_HUGGINGFACE_URL">
+<a href="https://huggingface.co/eyupcodes">
   <img height="42" src="https://img.shields.io/badge/Hugging%20Face-Models%20%26%20AI-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" />
 </a>
 
-<a href="YOUR_SLACK_URL">
-  <img height="42" src="https://img.shields.io/badge/Slack-Community-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+<a href="https://x.com/eyupfidann">
+  <img height="42" src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 </div>
@@ -671,7 +668,7 @@ The important distinction for me is whether a repository has a clear technical p
 - **Medium** — technical writing, research notes and deeper explanations
 - **Kaggle** — datasets, notebooks, experiments and data/ML work
 - **Hugging Face** — models, Spaces, datasets and AI experiments
-- **Slack** — communities, collaboration and technical networking
+- **X** — short updates, links and conversations about AI tooling
 - **GitHub** — source code, engineering projects and technical experiments
 
 ---
